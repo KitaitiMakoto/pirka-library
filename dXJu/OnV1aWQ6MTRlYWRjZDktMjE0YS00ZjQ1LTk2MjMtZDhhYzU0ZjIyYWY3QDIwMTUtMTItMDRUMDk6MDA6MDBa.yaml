@@ -1,0 +1,238 @@
+---
+Release Identifier: urn:uuid:14eadcd9-214a-4f45-9623-d8ac54f22af7@2015-12-04T09:00:00Z
+title: WEB+DB PRESS plusシリーズ APIデザインケーススタディ Rubyの実例から学ぶ。問題に即したデザインと普遍の考え方
+codelist:
+  epubcfi(/6/20!/4/2/36/6/2):
+    language: c
+    item: OEBPS/text/p-001-002.xhtml
+  epubcfi(/6/26!/4/2/40/2):
+    language: ruby
+    item: OEBPS/text/p-001-005.xhtml
+  epubcfi(/6/26!/4/2/48/2):
+    language: ruby
+    item: OEBPS/text/p-001-005.xhtml
+  epubcfi(/6/26!/4/2/52/2):
+    language: ruby
+    item: OEBPS/text/p-001-005.xhtml
+  epubcfi(/6/26!/4/2/56/2):
+    language: ruby
+    item: OEBPS/text/p-001-005.xhtml
+  epubcfi(/6/26!/4/2/76/2):
+    language: ruby
+    item: OEBPS/text/p-001-005.xhtml
+  epubcfi(/6/26!/4/2/92/2):
+    language: ruby
+    item: OEBPS/text/p-001-005.xhtml
+  epubcfi(/6/26!/4/2/122/2):
+    language: c
+    item: OEBPS/text/p-001-005.xhtml
+  epubcfi(/6/26!/4/2/126/2):
+    language: ruhby
+    item: OEBPS/text/p-001-005.xhtml
+  epubcfi(/6/32!/4/2/10/2):
+    language: c
+    item: OEBPS/text/p-001-008.xhtml
+  epubcfi(/6/34!/4/2/44/2):
+    language: ruby
+    item: OEBPS/text/p-001-009.xhtml
+  epubcfi(/6/34!/4/2/48/2):
+    language: ruby
+    item: OEBPS/text/p-001-009.xhtml
+  epubcfi(/6/34!/4/2/62/2):
+    language: ruby
+    item: OEBPS/text/p-001-009.xhtml
+  epubcfi(/6/34!/4/2/78/2):
+    language: ruby
+    item: OEBPS/text/p-001-009.xhtml
+  epubcfi(/6/34!/4/2/82/2):
+    language: ruby
+    item: OEBPS/text/p-001-009.xhtml
+  epubcfi(/6/38!/4/2/58/2):
+    language: ruby
+    item: OEBPS/text/p-001-011.xhtml
+  epubcfi(/6/38!/4/2/82/2):
+    language: shell
+    item: OEBPS/text/p-001-011.xhtml
+  epubcfi(/6/38!/4/2/100/2):
+    language: ruby
+    item: OEBPS/text/p-001-011.xhtml
+  epubcfi(/6/44!/4/2/26/2):
+    language: c
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/44!/4/2/66/2):
+    language: ruby
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/44!/4/2/70/2):
+    language: ruby
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/46!/4/2/40/2):
+    language: ruby
+    item: OEBPS/text/p-002-002.xhtml
+  epubcfi(/6/46!/4/2/44/2):
+    language: ruby
+    item: OEBPS/text/p-002-002.xhtml
+  epubcfi(/6/46!/4/2/50/2):
+    language: ruby
+    item: OEBPS/text/p-002-002.xhtml
+  epubcfi(/6/46!/4/2/76/2):
+    language: ruby
+    item: OEBPS/text/p-002-002.xhtml
+  epubcfi(/6/50!/4/2/10/2):
+    language: ruby
+    item: OEBPS/text/p-002-004.xhtml
+  epubcfi(/6/50!/4/2/14/2):
+    language: ruby
+    item: OEBPS/text/p-002-004.xhtml
+  epubcfi(/6/50!/4/2/26/2):
+    language: ruby
+    item: OEBPS/text/p-002-004.xhtml
+  epubcfi(/6/50!/4/2/40/2):
+    language: ruby
+    item: OEBPS/text/p-002-004.xhtml
+  epubcfi(/6/50!/4/2/46/2):
+    language: ruby
+    item: OEBPS/text/p-002-004.xhtml
+  epubcfi(/6/52!/4/2/40/2):
+    language: ruby
+    item: OEBPS/text/p-002-005.xhtml
+  epubcfi(/6/54!/4/2/16/2):
+    language: c
+    item: OEBPS/text/p-002-006.xhtml
+  epubcfi(/6/54!/4/2/26/2):
+    language: ruby
+    item: OEBPS/text/p-002-006.xhtml
+  epubcfi(/6/56!/4/2/30/2):
+    language: ruby
+    item: OEBPS/text/p-002-007.xhtml
+  epubcfi(/6/60!/4/2/32/2):
+    language: ruby
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/60!/4/2/36/2):
+    language: ruby
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/64!/4/2/30/2):
+    language: ruby
+    item: OEBPS/text/p-003-003.xhtml
+  epubcfi(/6/66!/4/2/14/2):
+    language: ruby
+    item: OEBPS/text/p-003-004.xhtml
+  epubcfi(/6/66!/4/2/38/2):
+    language: ruby
+    item: OEBPS/text/p-003-004.xhtml
+  epubcfi(/6/70!/4/2/14/2):
+    language: ruby
+    item: OEBPS/text/p-003-006.xhtml
+  epubcfi(/6/72!/4/2/12/2):
+    language: shell
+    item: OEBPS/text/p-003-007.xhtml
+  epubcfi(/6/72!/4/2/18/2):
+    language: ruby
+    item: OEBPS/text/p-003-007.xhtml
+  epubcfi(/6/72!/4/2/24/2):
+    language: perl
+    item: OEBPS/text/p-003-007.xhtml
+  epubcfi(/6/72!/4/2/30/2):
+    language: python
+    item: OEBPS/text/p-003-007.xhtml
+  epubcfi(/6/72!/4/2/36/2):
+    language: python
+    item: OEBPS/text/p-003-007.xhtml
+  epubcfi(/6/72!/4/2/44/2):
+    language: python
+    item: OEBPS/text/p-003-007.xhtml
+  epubcfi(/6/72!/4/2/50/2):
+    language: python
+    item: OEBPS/text/p-003-007.xhtml
+  epubcfi(/6/72!/4/2/54/2):
+    language: perl
+    item: OEBPS/text/p-003-007.xhtml
+  epubcfi(/6/74!/4/2/22/2):
+    language: ruby
+    item: OEBPS/text/p-003-008.xhtml
+  epubcfi(/6/74!/4/2/68/2):
+    language: ruby
+    item: OEBPS/text/p-003-008.xhtml
+  epubcfi(/6/82!/4/2/22/2):
+    language: ruby
+    item: OEBPS/text/p-004-002.xhtml
+  epubcfi(/6/94!/4/2/26/2):
+    language: c
+    item: OEBPS/text/p-004-008.xhtml
+  epubcfi(/6/94!/4/2/38/2):
+    language: http
+    item: OEBPS/text/p-004-008.xhtml
+  epubcfi(/6/94!/4/2/56/2):
+    language: ruby
+    item: OEBPS/text/p-004-008.xhtml
+  epubcfi(/6/94!/4/2/64/2):
+    language: ruby
+    item: OEBPS/text/p-004-008.xhtml
+  epubcfi(/6/94!/4/2/72/2):
+    language: ruby
+    item: OEBPS/text/p-004-008.xhtml
+  epubcfi(/6/96!/4/2/10/2):
+    language: ruby
+    item: OEBPS/text/p-004-009.xhtml
+  epubcfi(/6/96!/4/2/28/2):
+    language: ruby
+    item: OEBPS/text/p-004-009.xhtml
+  epubcfi(/6/96!/4/2/32/2):
+    language: ruby
+    item: OEBPS/text/p-004-009.xhtml
+  epubcfi(/6/96!/4/2/38/2):
+    language: ruby
+    item: OEBPS/text/p-004-009.xhtml
+  epubcfi(/6/96!/4/2/44/2):
+    language: ruby
+    item: OEBPS/text/p-004-009.xhtml
+  epubcfi(/6/106!/4/2/28/2):
+    language: ruby
+    item: OEBPS/text/p-004-014.xhtml
+  epubcfi(/6/106!/4/2/46/2):
+    language: ruby
+    item: OEBPS/text/p-004-014.xhtml
+  epubcfi(/6/108!/4/2/10/2):
+    language: ruby
+    item: OEBPS/text/p-004-015.xhtml
+  epubcfi(/6/108!/4/2/22/2):
+    language: ruby
+    item: OEBPS/text/p-004-015.xhtml
+  epubcfi(/6/108!/4/2/26/2):
+    language: ruby
+    item: OEBPS/text/p-004-015.xhtml
+  epubcfi(/6/114!/4/2/10/2):
+    language: ruby
+    item: OEBPS/text/p-005-002.xhtml
+  epubcfi(/6/114!/4/2/26/2):
+    language: ruby
+    item: OEBPS/text/p-005-002.xhtml
+  epubcfi(/6/114!/4/2/30/2):
+    language: ruby
+    item: OEBPS/text/p-005-002.xhtml
+  epubcfi(/6/114!/4/2/38/2):
+    language: ruby
+    item: OEBPS/text/p-005-002.xhtml
+  epubcfi(/6/114!/4/2/44/2):
+    language: ruby
+    item: OEBPS/text/p-005-002.xhtml
+  epubcfi(/6/116!/4/2/18/2):
+    language: ruby
+    item: OEBPS/text/p-005-003.xhtml
+  epubcfi(/6/122!/4/2/10/2):
+    language: ruby
+    item: OEBPS/text/p-005-006.xhtml
+  epubcfi(/6/122!/4/2/20/2):
+    language: ruby
+    item: OEBPS/text/p-005-006.xhtml
+  epubcfi(/6/122!/4/2/26/2):
+    language: ruby
+    item: OEBPS/text/p-005-006.xhtml
+  epubcfi(/6/122!/4/2/32/2):
+    language: ruby
+    item: OEBPS/text/p-005-006.xhtml
+  epubcfi(/6/122!/4/2/44/2):
+    language: ruby
+    item: OEBPS/text/p-005-006.xhtml
+  epubcfi(/6/122!/4/2/48/2):
+    language: ruby
+    item: OEBPS/text/p-005-006.xhtml
