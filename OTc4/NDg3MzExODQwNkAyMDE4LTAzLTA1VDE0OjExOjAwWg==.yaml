@@ -1,0 +1,223 @@
+---
+Release Identifier: 9784873118406@2018-03-05T14:11:00Z
+title: 入門Kubernetes
+codelist:
+  epubcfi(/6/18!/4/58/2):
+    language: docker
+    item: OEBPS/ch02_reviewed.xhtml
+  epubcfi(/6/18!/4/172/2):
+    language: shell
+    item: OEBPS/ch02_reviewed.xhtml
+  epubcfi(/6/18!/4/176/2):
+    language: shell
+    item: OEBPS/ch02_reviewed.xhtml
+  epubcfi(/6/24!/4/78[kuard-pod-yaml]/4):
+    language: yaml
+    item: OEBPS/ch05_reviewed.xhtml
+  epubcfi(/6/24!/4/202[kuard-pod-health-yaml]/4):
+    language: yaml
+    item: OEBPS/ch05_reviewed.xhtml
+  epubcfi(/6/24!/4/244[kuard-pod-resreq-yaml]/4):
+    language: yaml
+    item: OEBPS/ch05_reviewed.xhtml
+  epubcfi(/6/24!/4/270[kuard-pod-reslim-yaml]/4):
+    language: yaml
+    item: OEBPS/ch05_reviewed.xhtml
+  epubcfi(/6/24!/4/284[kuard-pod-vol-yaml]/4):
+    language: yaml
+    item: OEBPS/ch05_reviewed.xhtml
+  epubcfi(/6/24!/4/318/2):
+    language: yaml
+    item: OEBPS/ch05_reviewed.xhtml
+  epubcfi(/6/24!/4/326[kuard-pod-full-yaml]/4):
+    language: yaml
+    item: OEBPS/ch05_reviewed.xhtml
+  epubcfi(/6/26!/4/104/2):
+    language: yaml
+    item: OEBPS/ch06_reviewed.xhtml
+  epubcfi(/6/26!/4/114/2):
+    language: yaml
+    item: OEBPS/ch06_reviewed.xhtml
+  epubcfi(/6/26!/4/138/2):
+    language: yaml
+    item: OEBPS/ch06_reviewed.xhtml
+  epubcfi(/6/28!/4/62/2):
+    language: yaml
+    item: OEBPS/ch07_reviewed.xhtml
+  epubcfi(/6/30!/4/50[kuard-rs-yaml]/4):
+    language: yaml
+    item: OEBPS/ch08_reviewed.xhtml
+  epubcfi(/6/30!/4/56/2):
+    language: yaml
+    item: OEBPS/ch08_reviewed.xhtml
+  epubcfi(/6/30!/4/126/2):
+    language: yaml
+    item: OEBPS/ch08_reviewed.xhtml
+  epubcfi(/6/32!/4/28[fluentd-yaml]/4):
+    language: yaml
+    item: OEBPS/ch09_reviewed.xhtml
+  epubcfi(/6/32!/4/76[nginx-fast-storage-yaml]/4):
+    language: yaml
+    item: OEBPS/ch09_reviewed.xhtml
+  epubcfi(/6/32!/4/98/2):
+    language: shell
+    item: OEBPS/ch09_reviewed.xhtml
+  epubcfi(/6/34!/4/42[job-oneshot-yaml]/4):
+    language: yaml
+    item: OEBPS/ch10_reviewed.xhtml
+  epubcfi(/6/34!/4/66[job-oneshot-failure1-yaml]/4):
+    language: yaml
+    item: OEBPS/ch10_reviewed.xhtml
+  epubcfi(/6/34!/4/94[job-parallel-yaml]/4):
+    language: yaml
+    item: OEBPS/ch10_reviewed.xhtml
+  epubcfi(/6/34!/4/120[rs-queue-yaml]/4):
+    language: yaml
+    item: OEBPS/ch10_reviewed.xhtml
+  epubcfi(/6/34!/4/134[service-queue-yaml]/4):
+    language: yaml
+    item: OEBPS/ch10_reviewed.xhtml
+  epubcfi(/6/34!/4/144[load-queue-sh]/4):
+    language: shell
+    item: OEBPS/ch10_reviewed.xhtml
+  epubcfi(/6/34!/4/156[job-consumers-yaml]/4):
+    language: yaml
+    item: OEBPS/ch10_reviewed.xhtml
+  epubcfi(/6/36!/4/38[kuard-config-yaml]/4):
+    language: yaml
+    item: OEBPS/ch11_reviewed.xhtml
+  epubcfi(/6/36!/4/110[kuard-secret-yaml]/4):
+    language: yaml
+    item: OEBPS/ch11_reviewed.xhtml
+  epubcfi(/6/36!/4/136[kuard-secret-ips-yaml]/4):
+    language: yaml
+    item: OEBPS/ch11_reviewed.xhtml
+  epubcfi(/6/38!/4/66/2):
+    language: yaml
+    item: OEBPS/ch12_reviewed.xhtml
+  epubcfi(/6/38!/4/72/2):
+    language: yaml
+    item: OEBPS/ch12_reviewed.xhtml
+  epubcfi(/6/38!/4/98/2):
+    language: yaml
+    item: OEBPS/ch12_reviewed.xhtml
+  epubcfi(/6/38!/4/112/2):
+    language: yaml
+    item: OEBPS/ch12_reviewed.xhtml
+  epubcfi(/6/38!/4/116/2):
+    language: yaml
+    item: OEBPS/ch12_reviewed.xhtml
+  epubcfi(/6/38!/4/188/2):
+    language: yaml
+    item: OEBPS/ch12_reviewed.xhtml
+  epubcfi(/6/38!/4/254/2):
+    language: yaml
+    item: OEBPS/ch12_reviewed.xhtml
+  epubcfi(/6/38!/4/266/2):
+    language: yaml
+    item: OEBPS/ch12_reviewed.xhtml
+  epubcfi(/6/40!/4/28/2):
+    language: yaml
+    item: OEBPS/ch13_reviewed.xhtml
+  epubcfi(/6/40!/4/32/2):
+    language: yaml
+    item: OEBPS/ch13_reviewed.xhtml
+  epubcfi(/6/40!/4/42[dns-service-yaml]/4):
+    language: yaml
+    item: OEBPS/ch13_reviewed.xhtml
+  epubcfi(/6/40!/4/50[external-ip-service-yaml]/4):
+    language: yaml
+    item: OEBPS/ch13_reviewed.xhtml
+  epubcfi(/6/40!/4/56[external-ip-endpoints-yaml]/4):
+    language: yaml
+    item: OEBPS/ch13_reviewed.xhtml
+  epubcfi(/6/40!/4/86[nfs-volume-yaml]/4):
+    language: yaml
+    item: OEBPS/ch13_reviewed.xhtml
+  epubcfi(/6/40!/4/96[nfs-volume-claim-yaml]/4):
+    language: yaml
+    item: OEBPS/ch13_reviewed.xhtml
+  epubcfi(/6/40!/4/104[mysql-replicaset-yaml]/4):
+    language: yaml
+    item: OEBPS/ch13_reviewed.xhtml
+  epubcfi(/6/40!/4/108[mysql-service-yaml]/4):
+    language: yaml
+    item: OEBPS/ch13_reviewed.xhtml
+  epubcfi(/6/40!/4/120[storageclass-yaml]/4):
+    language: yaml
+    item: OEBPS/ch13_reviewed.xhtml
+  epubcfi(/6/40!/4/126[dynamic-volume-claim-yaml]/4):
+    language: yaml
+    item: OEBPS/ch13_reviewed.xhtml
+  epubcfi(/6/40!/4/160[mongo-simple-yaml]/4):
+    language: yaml
+    item: OEBPS/ch13_reviewed.xhtml
+  epubcfi(/6/40!/4/174[mongo-service-yaml]/4):
+    language: yaml
+    item: OEBPS/ch13_reviewed.xhtml
+  epubcfi(/6/40!/4/202/2):
+    language: yaml
+    item: OEBPS/ch13_reviewed.xhtml
+  epubcfi(/6/40!/4/208[mongo-configmap-yaml]/4):
+    language: yaml
+    item: OEBPS/ch13_reviewed.xhtml
+  epubcfi(/6/40!/4/214[mongo-yaml]/4):
+    language: yaml
+    item: OEBPS/ch13_reviewed.xhtml
+  epubcfi(/6/40!/4/226/2):
+    language: yaml
+    item: OEBPS/ch13_reviewed.xhtml
+  epubcfi(/6/40!/4/230/2):
+    language: yaml
+    item: OEBPS/ch13_reviewed.xhtml
+  epubcfi(/6/40!/4/240/2):
+    language: yaml
+    item: OEBPS/ch13_reviewed.xhtml
+  epubcfi(/6/42!/4/48[parse-yaml]/4):
+    language: yaml
+    item: OEBPS/ch14_reviewed.xhtml
+  epubcfi(/6/42!/4/54[parse-service-yaml]/4):
+    language: yaml
+    item: OEBPS/ch14_reviewed.xhtml
+  epubcfi(/6/42!/4/66[ghost-config-js]/4):
+    language: yaml
+    item: OEBPS/ch14_reviewed.xhtml
+  epubcfi(/6/42!/4/74[ghost-yaml]/4):
+    language: yaml
+    item: OEBPS/ch14_reviewed.xhtml
+  epubcfi(/6/42!/4/98/2):
+    language: yaml
+    item: OEBPS/ch14_reviewed.xhtml
+  epubcfi(/6/42!/4/106/2):
+    language: yaml
+    item: OEBPS/ch14_reviewed.xhtml
+  epubcfi(/6/42!/4/136[master-conf]/4):
+    language: conf
+    item: OEBPS/ch14_reviewed.xhtml
+  epubcfi(/6/42!/4/142[slave-conf]/4):
+    language: conf
+    item: OEBPS/ch14_reviewed.xhtml
+  epubcfi(/6/42!/4/148[sentinel-conf]/4):
+    language: conf
+    item: OEBPS/ch14_reviewed.xhtml
+  epubcfi(/6/42!/4/154[init-sh]/4):
+    language: shell
+    item: OEBPS/ch14_reviewed.xhtml
+  epubcfi(/6/42!/4/158[sentinel-sh]/4):
+    language: shell
+    item: OEBPS/ch14_reviewed.xhtml
+  epubcfi(/6/42!/4/168[redis-service-yaml]/4):
+    language: yaml
+    item: OEBPS/ch14_reviewed.xhtml
+  epubcfi(/6/42!/4/176[redis-yaml]/4):
+    language: yaml
+    item: OEBPS/ch14_reviewed.xhtml
+  epubcfi(/6/44!/4/56/2):
+    language: conf
+    item: OEBPS/ap01_reviewed.xhtml
+  epubcfi(/6/44!/4/68/2):
+    language: conf
+    item: OEBPS/ap01_reviewed.xhtml
+  epubcfi(/6/44!/4/94/2):
+    language: conf
+    item: OEBPS/ap01_reviewed.xhtml
