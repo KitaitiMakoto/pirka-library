@@ -1,0 +1,1921 @@
+---
+Release Identifier: urn:uuid:f975b8a5-5ab6-40d1-946f-ddc3f12bbbfe@2019-04-19T09:00:00Z
+title: 実践Rust入門 ［言語仕様から開発手法まで］
+codelist:
+  epubcfi(/6/16!/4/2/184/2):
+    language: rust
+    item: OEBPS/text/p-001-001.xhtml
+  epubcfi(/6/16!/4/2/190/2):
+    language: rust
+    item: OEBPS/text/p-001-001.xhtml
+  epubcfi(/6/16!/4/2/212/2):
+    language: rust
+    item: OEBPS/text/p-001-001.xhtml
+  epubcfi(/6/18!/4/2/216/2):
+    language: toml
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/18!/4/2/226/2):
+    language: rust
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/18!/4/2/274/2):
+    language: rust
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/18!/4/2/282/2):
+    language: rust
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/18!/4/2/286/2):
+    language: rust
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/18!/4/2/292/2):
+    language: rust
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/18!/4/2/304/2):
+    language: rust
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/18!/4/2/314/2):
+    language: rust
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/18!/4/2/462/2):
+    language: rust
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/18!/4/2/478/2):
+    language: rust
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/18!/4/2/506/2):
+    language: rust
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/18!/4/2/512/2):
+    language: rust
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/18!/4/2/606/2):
+    language: json
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/18!/4/2/706/2):
+    language: rust
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/18!/4/2/756/2):
+    language: toml
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/18!/4/2/788/2):
+    language: rust
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/18!/4/2/802/2):
+    language: toml
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/18!/4/2/818/2):
+    language: rust
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/18!/4/2/834/2):
+    language: rust
+    item: OEBPS/text/p-002-001.xhtml
+  epubcfi(/6/20!/4/2/98/2):
+    language: python
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/108/2):
+    language: python
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/116/2):
+    language: python
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/148/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/158/2):
+    language: python
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/164/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/210/2):
+    language: python
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/216/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/226/2):
+    language: python
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/230/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/236/2):
+    language: python
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/244/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/254/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/272/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/280/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/332/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/350/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/360/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/384/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/400/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/406/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/412/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/418/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/426/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/444/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/450/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/466/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/472/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/480/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/484/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/494/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/508/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/516/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/526/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/536/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/544/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/550/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/556/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/566/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/574/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/582/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/586/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/590/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/598/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/606/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/612/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/618/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/624/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/642/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/646/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/660/2):
+    language: toml
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/664/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/670/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/682/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/698/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/706/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/718/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/738/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/742/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/752/2):
+    language: toml
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/758/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/764/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/770/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/798/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/810/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/824/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/832/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/842/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/852/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/866/2):
+    language: rust
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/20!/4/2/872/2):
+    language: toml
+    item: OEBPS/text/p-003-001.xhtml
+  epubcfi(/6/22!/4/2/34/10/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/34/14/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/34/18/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/34/22/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/46/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/56/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/64/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/74/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/106/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/112/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/118/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/148/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/170/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/182/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/196/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/202/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/236/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/246/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/260/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/272/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/278/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/284/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/290/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/296/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/298/10/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/298/14/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/298/20/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/298/30/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/298/40/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/298/46/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/328/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/334/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/342/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/350/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/360/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/366/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/378/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/384/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/390/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/398/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/416/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/422/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/436/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/444/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/450/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/456/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/478/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/488/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/496/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/504/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/512/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/520/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/22!/4/2/532/2):
+    language: rust
+    item: OEBPS/text/p-004-001.xhtml
+  epubcfi(/6/24!/4/2/54/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/72/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/90/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/98/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/120/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/136/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/142/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/158/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/166/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/172/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/180/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/186/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/214/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/222/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/234/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/240/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/248/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/262/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/270/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/278/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/284/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/296/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/302/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/310/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/338/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/344/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/348/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/352/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/362/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/370/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/380/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/386/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/394/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/402/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/410/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/416/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/422/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/428/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/436/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/442/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/448/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/458/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/476/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/482/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/488/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/498/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/504/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/528/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/532/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/542/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/550/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/556/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/566/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/592/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/596/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/604/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/610/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/616/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/624/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/632/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/644/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/656/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/664/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/670/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/688/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/698/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/708/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/716/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/24!/4/2/728/2):
+    language: rust
+    item: OEBPS/text/p-005-001.xhtml
+  epubcfi(/6/26!/4/2/36/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/46/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/62/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/72/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/90/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/98/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/110/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/122/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/136/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/146/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/150/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/166/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/176/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/184/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/194/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/204/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/214/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/222/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/224/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/228/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/236/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/240/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/244/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/248/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/258/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/266/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/272/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/282/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/290/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/298/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/306/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/314/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/318/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/324/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/330/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/334/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/340/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/350/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/364/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/368/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/372/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/376/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/382/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/390/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/398/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/406/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/412/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/420/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/428/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/434/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/438/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/442/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/446/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/452/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/464/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/470/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/478/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/482/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/486/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/492/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/26!/4/2/494/2):
+    language: rust
+    item: OEBPS/text/p-006-001.xhtml
+  epubcfi(/6/28!/4/2/102/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/108/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/114/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/136/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/158/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/188/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/192/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/222/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/228/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/256/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/300/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/320/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/326/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/338/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/350/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/360/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/376/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/388/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/394/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/416/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/422/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/444/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/458/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/466/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/472/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/484/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/490/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/500/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/508/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/526/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/536/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/538/8/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/538/12/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/550/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/554/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/586/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/612/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/620/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/628/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/636/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/644/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/664/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/708/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/714/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/734/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/764/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/780/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/796/2):
+    language: toml
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/802/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/814/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/836/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/844/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/850/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/856/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/862/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/868/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/874/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/882/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/888/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/28!/4/2/902/2):
+    language: rust
+    item: OEBPS/text/p-007-001.xhtml
+  epubcfi(/6/30!/4/2/22/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/28/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/34/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/42/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/48/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/62/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/70/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/76/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/84/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/94/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/100/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/102/12/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/102/18/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/102/24/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/112/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/118/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/126/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/134/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/140/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/146/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/154/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/158/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/180/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/184/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/188/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/198/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/204/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/210/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/220/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/226/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/232/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/236/12/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/236/18/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/236/24/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/236/30/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/236/36/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/236/50/2):
+    language: java
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/236/58/2):
+    language: java
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/250/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/256/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/262/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/268/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/276/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/282/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/292/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/308/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/318/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/334/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/342/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/348/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/354/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/360/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/366/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/376/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/384/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/390/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/394/10/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/394/18/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/404/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/408/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/412/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/420/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/426/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/432/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/442/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/450/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/456/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/458/10/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/468/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/476/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/484/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/488/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/494/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/498/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/504/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/510/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/514/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/522/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/528/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/532/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/540/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/548/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/552/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/558/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/568/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/572/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/576/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/580/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/584/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/588/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/592/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/608/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/612/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/616/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/624/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/630/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/636/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/642/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/650/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/656/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/30!/4/2/662/2):
+    language: rust
+    item: OEBPS/text/p-008-001.xhtml
+  epubcfi(/6/34!/4/2/132/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/138/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/148/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/154/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/174/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/180/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/190/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/198/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/204/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/210/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/216/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/222/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/234/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/296/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/302/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/308/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/316/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/332/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/338/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/358/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/362/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/368/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/374/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/380/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/386/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/396/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/404/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/418/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/436/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/442/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/448/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/456/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/464/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/470/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/478/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/490/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/496/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/502/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/526/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/534/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/538/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/544/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/566/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/572/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/580/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/598/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/606/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/616/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/622/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/34!/4/2/628/2):
+    language: rust
+    item: OEBPS/text/p-009-001.xhtml
+  epubcfi(/6/36!/4/2/52/2):
+    language: toml
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/64/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/90/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/96/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/106/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/112/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/118/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/132/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/136/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/160/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/168/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/176/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/194/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/218/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/232/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/244/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/268/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/280/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/284/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/298/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/308/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/312/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/324/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/330/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/350/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/358/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/372/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/378/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/386/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/398/2):
+    language: rust
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/500/2):
+    language: yaml
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/546/2):
+    language: yaml
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/576/2):
+    language: toml
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/588/2):
+    language: markdown
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/604/2):
+    language: toml
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/36!/4/2/636/2):
+    language: toml
+    item: OEBPS/text/p-010-001.xhtml
+  epubcfi(/6/38!/4/2/68/2):
+    language: toml
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/74/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/100/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/104/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/108/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/112/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/116/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/120/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/124/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/136/2):
+    language: toml
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/140/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/144/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/148/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/156/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/160/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/180/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/208/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/214/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/220/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/228/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/234/2):
+    language: html
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/282/2):
+    language: toml
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/294/2):
+    language: toml
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/306/2):
+    language: toml
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/316/2):
+    language: toml
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/324/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/332/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/346/2):
+    language: toml
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/356/2):
+    language: toml
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/364/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/376/2):
+    language: toml
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/382/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/432/2):
+    language: yaml
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/448/2):
+    language: sql
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/454/2):
+    language: sql
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/464/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/480/2):
+    language: toml
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/494/2):
+    language: toml
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/500/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/510/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/518/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/526/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/536/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/550/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/558/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/592/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/596/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/604/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/612/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/630/2):
+    language: toml
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/638/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/658/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/668/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/714/2):
+    language: toml
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/726/2):
+    language: toml
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/732/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/738/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/744/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/750/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/756/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/762/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/768/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/776/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/784/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/800/2):
+    language: toml
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/818/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/826/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/834/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/38!/4/2/846/2):
+    language: rust
+    item: OEBPS/text/p-011-001.xhtml
+  epubcfi(/6/40!/4/2/22/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/40/2):
+    language: c
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/50/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/82/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/104/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/114/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/138/2):
+    language: toml
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/144/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/152/8/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/168/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/174/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/182/2):
+    language: c
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/186/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/202/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/206/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/220/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/230/2):
+    language: c
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/236/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/256/2):
+    language: c
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/262/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/282/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/286/2):
+    language: c
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/298/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/310/2):
+    language: c
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/314/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/326/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/334/10/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/334/14/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/360/2):
+    language: toml
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/368/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/384/2):
+    language: c
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/450/2):
+    language: toml
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/460/2):
+    language: toml
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/466/2):
+    language: c
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/472/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/484/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/500/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/520/2):
+    language: toml
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/526/2):
+    language: toml
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/534/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/542/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/552/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/558/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/564/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/572/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/578/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
+  epubcfi(/6/40!/4/2/584/2):
+    language: rust
+    item: OEBPS/text/p-012-001.xhtml
