@@ -132,7 +132,7 @@ codelist:
     language: shell
     item: OEBPS/Text/N0081619_01.xhtml
   epubcfi(/6/42!/4/2/92/2):
-    language: ".properties"
+    language: properties
     item: OEBPS/Text/N0081619_01.xhtml
   epubcfi(/6/42!/4/2/106/2):
     language: gradle
