@@ -1,0 +1,145 @@
+---
+Release Identifier: urn:N00816@2019-04-08T16:10:30Z
+title: Flutter×Firebaseで始めるモバイルアプリ開発
+codelist:
+  epubcfi(/6/16!/4/2/12/2):
+    language: dart
+    item: OEBPS/Text/N0081606_01.xhtml
+  epubcfi(/6/20!/4/2/72/2):
+    language: dart
+    item: OEBPS/Text/N0081608_01.xhtml
+  epubcfi(/6/20!/4/2/76/2):
+    language: dart
+    item: OEBPS/Text/N0081608_01.xhtml
+  epubcfi(/6/22!/4/2/16/2):
+    language: dart
+    item: OEBPS/Text/N0081609_01.xhtml
+  epubcfi(/6/22!/4/2/20/2):
+    language: dart
+    item: OEBPS/Text/N0081609_01.xhtml
+  epubcfi(/6/22!/4/2/32/2):
+    language: dart
+    item: OEBPS/Text/N0081609_01.xhtml
+  epubcfi(/6/22!/4/2/84/2):
+    language: dart
+    item: OEBPS/Text/N0081609_01.xhtml
+  epubcfi(/6/22!/4/2/108/2):
+    language: dart
+    item: OEBPS/Text/N0081609_01.xhtml
+  epubcfi(/6/24!/4/2/26/2):
+    language: dart
+    item: OEBPS/Text/N0081610_01.xhtml
+  epubcfi(/6/24!/4/2/94/2):
+    language: dart
+    item: OEBPS/Text/N0081610_01.xhtml
+  epubcfi(/6/24!/4/2/128/2):
+    language: dart
+    item: OEBPS/Text/N0081610_01.xhtml
+  epubcfi(/6/24!/4/2/150/2):
+    language: dart
+    item: OEBPS/Text/N0081610_01.xhtml
+  epubcfi(/6/26!/4/2/20/2):
+    language: dart
+    item: OEBPS/Text/N0081611_01.xhtml
+  epubcfi(/6/26!/4/2/46/2):
+    language: dart
+    item: OEBPS/Text/N0081611_01.xhtml
+  epubcfi(/6/28!/4/2/18/2):
+    language: dart
+    item: OEBPS/Text/N0081612_01.xhtml
+  epubcfi(/6/30!/4/2/18/2):
+    language: dart
+    item: OEBPS/Text/N0081613_01.xhtml
+  epubcfi(/6/32!/4/2/68/2):
+    language: yaml
+    item: OEBPS/Text/N0081614_01.xhtml
+  epubcfi(/6/32!/4/2/80/2):
+    language: gradle
+    item: OEBPS/Text/N0081614_01.xhtml
+  epubcfi(/6/32!/4/2/90/2):
+    language: dart
+    item: OEBPS/Text/N0081614_01.xhtml
+  epubcfi(/6/32!/4/2/110/2):
+    language: dart
+    item: OEBPS/Text/N0081614_01.xhtml
+  epubcfi(/6/32!/4/2/122/2):
+    language: dart
+    item: OEBPS/Text/N0081614_01.xhtml
+  epubcfi(/6/32!/4/2/132/2):
+    language: dart
+    item: OEBPS/Text/N0081614_01.xhtml
+  epubcfi(/6/32!/4/2/194/2):
+    language: dart
+    item: OEBPS/Text/N0081614_01.xhtml
+  epubcfi(/6/32!/4/2/208/2):
+    language: dart
+    item: OEBPS/Text/N0081614_01.xhtml
+  epubcfi(/6/32!/4/2/226/2):
+    language: cel
+    item: OEBPS/Text/N0081614_01.xhtml
+  epubcfi(/6/34!/4/2/16/2):
+    language: yaml
+    item: OEBPS/Text/N0081615_01.xhtml
+  epubcfi(/6/34!/4/2/28/2):
+    language: dart
+    item: OEBPS/Text/N0081615_01.xhtml
+  epubcfi(/6/36!/4/2/40/2):
+    language: yaml
+    item: OEBPS/Text/N0081616_01.xhtml
+  epubcfi(/6/36!/4/2/58/2):
+    language: dart
+    item: OEBPS/Text/N0081616_01.xhtml
+  epubcfi(/6/36!/4/2/74/2):
+    language: json
+    item: OEBPS/Text/N0081616_01.xhtml
+  epubcfi(/6/36!/4/2/86/2):
+    language: json
+    item: OEBPS/Text/N0081616_01.xhtml
+  epubcfi(/6/36!/4/2/96/2):
+    language: dart
+    item: OEBPS/Text/N0081616_01.xhtml
+  epubcfi(/6/36!/4/2/104/10/2):
+    language: json
+    item: OEBPS/Text/N0081616_01.xhtml
+  epubcfi(/6/36!/4/2/104/14/2):
+    language: json
+    item: OEBPS/Text/N0081616_01.xhtml
+  epubcfi(/6/36!/4/2/104/20/2):
+    language: dart
+    item: OEBPS/Text/N0081616_01.xhtml
+  epubcfi(/6/36!/4/2/116/2):
+    language: xml
+    item: OEBPS/Text/N0081616_01.xhtml
+  epubcfi(/6/36!/4/2/126/2):
+    language: xml
+    item: OEBPS/Text/N0081616_01.xhtml
+  epubcfi(/6/36!/4/2/134/2):
+    language: xml
+    item: OEBPS/Text/N0081616_01.xhtml
+  epubcfi(/6/38!/4/2/20/2):
+    language: yaml
+    item: OEBPS/Text/N0081617_01.xhtml
+  epubcfi(/6/38!/4/2/36/2):
+    language: shell
+    item: OEBPS/Text/N0081617_01.xhtml
+  epubcfi(/6/40!/4/2/22/2):
+    language: yaml
+    item: OEBPS/Text/N0081618_01.xhtml
+  epubcfi(/6/40!/4/2/40/2):
+    language: dart
+    item: OEBPS/Text/N0081618_01.xhtml
+  epubcfi(/6/42!/4/2/64/2):
+    language: shell
+    item: OEBPS/Text/N0081619_01.xhtml
+  epubcfi(/6/42!/4/2/92/2):
+    language: ".properties"
+    item: OEBPS/Text/N0081619_01.xhtml
+  epubcfi(/6/42!/4/2/106/2):
+    language: gradle
+    item: OEBPS/Text/N0081619_01.xhtml
+  epubcfi(/6/42!/4/2/114/2):
+    language: shell
+    item: OEBPS/Text/N0081619_01.xhtml
+  epubcfi(/6/42!/4/2/128/2):
+    language: shell
+    item: OEBPS/Text/N0081619_01.xhtml
